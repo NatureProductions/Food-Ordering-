@@ -1,9 +1,9 @@
-<h1>LOGIN FORM</h1>
+<h1>Food Ordering System</h1>
 
 <h2>Description</h2>
-In this project i created a simple Login form using JAVA Jframes in NetBeans. I want show my abilities to connect any 
-Java programm to the database. So if the user is not registered, the is a signup option for registration. if the user
-is registered or found in the database he/she will be able to login.
+This i a Furtis food order system. Customer will use this system to order their food
+online. Customer has to fill in his or her details, to help the business keep track 
+of their records.
 <br />
 
 
@@ -13,7 +13,6 @@ is registered or found in the database he/she will be able to login.
 
 - <b>JAVA</b> 
 
-- <b>MySQL</b>
 
 
 <h2>Application Used</h2>
@@ -30,32 +29,36 @@ is registered or found in the database he/she will be able to login.
 
 <p align=”center”>
 
-This is the login Form: <br/>
+Customer has to fill in the information to be able to order food: <br/>
 
-![image](https://github.com/user-attachments/assets/e6c1cd64-eb08-43f0-90cc-f6789cfbb939)
 
-<br />
-
-<br />
-
-This is the registration Form:  <br/>
-
-![image](https://github.com/user-attachments/assets/73f0a12f-0868-441b-bfe3-a348f6db89b5)
+![image](https://github.com/user-attachments/assets/9b6e9049-c8d5-4b49-9a6f-4bb945090ffd)
 
 <br />
 
 <br />
 
-This is the page after Login page: <br/>
+Customer has to specify location and the registration will be done:  <br/>
 
-![image](https://github.com/user-attachments/assets/dac83c73-d7fd-4eed-a319-d3bf16966101)
+
+![image](https://github.com/user-attachments/assets/d463f3c2-aedf-46f7-be17-8b86277d2bd3)
 
 <br />
 
 <br />
 
-If the user is not found in the database this will display :  <br/>
-![image](https://github.com/user-attachments/assets/e87f9330-bc6c-4b37-ae2d-f845fa6ee865)
+There after customer has to place order state payment method : <br/>
+![image](https://github.com/user-attachments/assets/3a591744-d136-40b1-90f6-3432bb6066f8)
+
+
+<br />
+
+<br />
+
+When everything is successful, this information will display on the store. This will hel them
+keep track of everything the business do.<br/>
+
+![image](https://github.com/user-attachments/assets/129beb64-60c1-452d-8f11-e524c921f58b)
 
 <br />
 
@@ -63,7 +66,7 @@ If the user is not found in the database this will display :  <br/>
 
 <br/>
 
-This is the Login code
+
 
 
 
